@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Survey App</string>
+    <string name="finish">Your all data is reserve. Are you sure submit this?</string>
+</resources>
